@@ -1,6 +1,8 @@
-# <img src="assets/2x/modicon.png" width="48" align="center"> Jimbo Bleachers
+# Jimbo Bleachers
 
 A Balatro mod that stacks your Jokers into rows once you have more than 10.
+
+<img src="assets/2x/modicon.png" width="48" align="center"> 
 
 ## How it works
 
