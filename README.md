@@ -25,12 +25,3 @@ A Balatro mod that stacks your Jokers into rows once you have more than 10.
 Requires [Steamodded](https://github.com/Steamodded/smods) (1.0.0 beta or later).
 
 Copy the `JimboBleachers` folder into `%AppData%\Balatro\Mods` and restart the game.
-
-## Testing
-
-With [DebugPlus](https://github.com/WilsontheWolf/DebugPlus), open the console with `/` during a run:
-
-```
-eval for i = 1, 12 do SMODS.add_card({ set = "Joker" }) end   -- add 12 random Jokers
-eval G.jokers:change_size(20)                                    -- add 20 Joker slots
-```
