@@ -1,0 +1,14 @@
+{
+  "id": "JimboBleachers",
+  "name": "Jimbo Bleachers",
+  "display_name": "Jimbo Bleachers",
+  "author": ["tzer0m"],
+  "description": "Stacks your Jokers into rows of up to 10 once you have more than 10. Trigger order stays left to right, top row first.",
+  "prefix": "bleachers",
+  "main_file": "JimboBleachers.lua",
+  "priority": 0,
+  "badge_colour": "962C34",
+  "badge_text_colour": "FDB62C",
+  "version": "1.0.0",
+  "dependencies": ["Steamodded (>=1.0.0~BETA)"]
+}
